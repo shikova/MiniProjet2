@@ -234,3 +234,6 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+/FNBC/FNBC.vcxproj.filters
+/FNBC/FNBC.vcxproj
+/FNBC/FNBC.VC.db
